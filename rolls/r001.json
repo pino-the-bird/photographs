@@ -1,0 +1,257 @@
+{
+  "id": "r001",
+  "shots": [
+    {
+      "n": 1,
+      "at": 1793363217435,
+      "pos": {
+        "x": 1.4282491275825822,
+        "z": 4.618832913250481
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.870692916326566,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "need a reference for the black cat sketch promised to velvetHeron84",
+      "dayPhase": 0.7591051091826349,
+      "wetness": 0.04339720554246776,
+      "overcast": 0.06688760038339031
+    },
+    {
+      "n": 2,
+      "at": 1793393895776,
+      "pos": {
+        "x": -84.14158128587148,
+        "z": 33.867037984481705
+      },
+      "target": {
+        "x": -85.41,
+        "z": 34.972
+      },
+      "facing": 2.424956738963268,
+      "of": {
+        "entityId": "food_mushrooms_2",
+        "label": "the mushrooms"
+      },
+      "why": "The mushrooms look odd, want a shot to remember what they really look like up close",
+      "dayPhase": 0.19748408105155385,
+      "wetness": 0.20207620870595083,
+      "overcast": 0.17176477740005822
+    },
+    {
+      "n": 3,
+      "at": 1793420422438,
+      "pos": {
+        "x": -1.105601880030324,
+        "z": 4.864233626436247
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.3473013036948227,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "need a picture of this mountain of stuff to see what to keep",
+      "dayPhase": 0.8198955351624776,
+      "wetness": 0.09457874781601844,
+      "overcast": 0.11039193477139415
+    },
+    {
+      "n": 4,
+      "at": 1793537742223,
+      "pos": {
+        "x": 103.70456884158519,
+        "z": -8.07849320437282
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": 3.063850547275967,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "need a reference for a new shop design",
+      "dayPhase": 0.24705160726620642,
+      "wetness": 0,
+      "overcast": 2.914414365073735e-41
+    },
+    {
+      "n": 5,
+      "at": 1793556550165,
+      "pos": {
+        "x": 22.53658099899856,
+        "z": -51.968174693563
+      },
+      "target": {
+        "x": 10.013,
+        "z": -47.888
+      },
+      "facing": 2.826637929309009,
+      "of": {
+        "entityId": "food_chinese",
+        "label": "the chinese"
+      },
+      "why": "I want a picture of the paper boat before it disappears",
+      "dayPhase": 0.4375344605943947,
+      "wetness": 0.046085240684707686,
+      "overcast": 0.03917245458200153
+    },
+    {
+      "n": 6,
+      "at": 1793559974157,
+      "pos": {
+        "x": 8.903302086633675,
+        "z": -48.57903509953061
+      },
+      "target": {
+        "x": 10.013,
+        "z": -47.888
+      },
+      "facing": 0.5569606915109291,
+      "of": {
+        "entityId": "food_chinese",
+        "label": "the chinese"
+      },
+      "why": "grab a pic of the lone prawn cracker crown before it disappears",
+      "dayPhase": 0.607606075177728,
+      "wetness": 0.1666494749386394,
+      "overcast": 0.1416520536978435
+    },
+    {
+      "n": 7,
+      "at": 1793561914197,
+      "pos": {
+        "x": -78.95217468317139,
+        "z": 25.45166992677396
+      },
+      "target": {
+        "x": -86.3,
+        "z": 26.65
+      },
+      "facing": 2.9799295289059313,
+      "of": {
+        "entityId": "artifact_greenstone",
+        "label": "the greenstone"
+      },
+      "why": "to remember the glow and number",
+      "dayPhase": 0.7030292522610614,
+      "wetness": 0.15097652835470476,
+      "overcast": 0.12833004910149903
+    },
+    {
+      "n": 8,
+      "at": 1793566936168,
+      "pos": {
+        "x": 0.15921493993954902,
+        "z": 6.941410454388611
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.5937292780377421,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "capture the shrine pile before it blurs into another day",
+      "dayPhase": 0.18386092620936256,
+      "wetness": 0.08504735498501059,
+      "overcast": 0.072290251737259
+    },
+    {
+      "n": 9,
+      "at": 1793588256191,
+      "pos": {
+        "x": -25.43220827843334,
+        "z": -8.339425105310914
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": 0.31685985282794255,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "The circle of leaves keeps changing, I want to lock one image",
+      "dayPhase": 0.5668698215560505,
+      "wetness": 0.01774619001986552,
+      "overcast": 0.015084261516885692
+    },
+    {
+      "n": 10,
+      "at": 1793596845087,
+      "pos": {
+        "x": -19.88583206997536,
+        "z": 7.00000373902764
+      },
+      "target": {
+        "x": -75.655,
+        "z": 20.291
+      },
+      "facing": 2.9076352837922013,
+      "of": {
+        "entityId": "activity_pond",
+        "label": "the pond"
+      },
+      "why": "capture the seed spiral again, see if it changed",
+      "dayPhase": 0.32542458834471527,
+      "wetness": 0,
+      "overcast": 9.054163871684699e-88
+    },
+    {
+      "n": 11,
+      "at": 1793608789312,
+      "pos": {
+        "x": -18.084635128123892,
+        "z": -92.24220368136278
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": 1.3771959595236891,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "I want a fresh image of the shrine to see what new bits are hiding",
+      "dayPhase": 0.27215741751853517,
+      "wetness": 0.1760066063272908,
+      "overcast": 0.14960561537819717
+    },
+    {
+      "n": 12,
+      "at": 1793654297560,
+      "pos": {
+        "x": 21.063511148124217,
+        "z": -49.58817838845604
+      },
+      "target": {
+        "x": -14.454,
+        "z": -54.52
+      },
+      "facing": -3.0036188389884515,
+      "of": {
+        "entityId": "activity_museum",
+        "label": "the museum"
+      },
+      "why": "Need to capture something that sticks",
+      "dayPhase": 0.5298508131683425,
+      "wetness": 0,
+      "overcast": 8.773353312659827e-238
+    }
+  ]
+}
