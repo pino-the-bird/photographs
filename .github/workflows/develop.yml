@@ -1,0 +1,32 @@
+# his roll of twelve from the disposable camera, developed here when the town asks (develop.json, when he takes the
+# roll to City Mags), so that nothing is drawn on the town's server. the town puts this file here (world/Camera.js)
+# and reads what it makes (photos/<roll>/) from the commit that made it. a push of its own does not start it again
+name: develop
+on:
+  push:
+    branches: [main]
+    paths: ['develop.json']
+  workflow_dispatch:
+concurrency:
+  group: develop
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  develop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-save --no-package-lock playwright@1.63.0
+      - run: npx playwright install --with-deps --only-shell chromium
+      - run: node .github/develop.mjs
+      - name: keep them
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add photos
+          git diff --cached --quiet || { git commit -m "a roll developed"; git pull --rebase; git push; }
