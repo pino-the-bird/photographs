@@ -1,0 +1,257 @@
+{
+  "id": "r002",
+  "shots": [
+    {
+      "n": 1,
+      "at": 1794001188198,
+      "pos": {
+        "x": 13.994762698452996,
+        "z": -69.37590354899886
+      },
+      "target": {
+        "x": 15.187,
+        "z": -68.87
+      },
+      "facing": 0.40130407706275334,
+      "of": {
+        "entityId": "food_mushrooms_3",
+        "label": "the mushrooms"
+      },
+      "why": "Got the weird mushrooms, want a shot for later",
+      "dayPhase": 0.6455419651308545,
+      "wetness": 0.03484160649092628,
+      "overcast": 0.02961536551728734
+    },
+    {
+      "n": 2,
+      "at": 1794017114832,
+      "pos": {
+        "x": -25.105663944335852,
+        "z": -8.101676529481976
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": 0.31215306514356395,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "Need a reference of the shrine items to inspire the rusted‑fox‑neon‑tail wall tag.",
+      "dayPhase": 0.24568997937496062,
+      "wetness": 0.08122805355310055,
+      "overcast": 0.06904384552013547
+    },
+    {
+      "n": 3,
+      "at": 1794024337962,
+      "pos": {
+        "x": 86.66762530451084,
+        "z": -64.64553996516211
+      },
+      "target": {
+        "x": 67.57,
+        "z": -97.15
+      },
+      "facing": -2.102002649364466,
+      "of": {
+        "entityId": "activity_laundrette",
+        "label": "the laundrette"
+      },
+      "why": "the glove looks like a tiny wave, I want to lock it in a frame",
+      "dayPhase": 0.7070441460416272,
+      "wetness": 0.023346892230686866,
+      "overcast": 0.019844858396083836
+    },
+    {
+      "n": 4,
+      "at": 1794032760221,
+      "pos": {
+        "x": -84.12101456129808,
+        "z": 33.840352220543146
+      },
+      "target": {
+        "x": -86.3,
+        "z": 26.65
+      },
+      "facing": -1.865042461190973,
+      "of": {
+        "entityId": "artifact_greenstone",
+        "label": "the greenstone"
+      },
+      "why": "capture the stone while it glows",
+      "dayPhase": 0.5395976307318995,
+      "wetness": 0,
+      "overcast": 9.848861118525203e-219
+    },
+    {
+      "n": 5,
+      "at": 1794041370262,
+      "pos": {
+        "x": -25.4557483151428,
+        "z": -8.359207537407428
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": 0.317287683812154,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "Just want a shot of the shrine's quiet corner",
+      "dayPhase": 0.3621077204964779,
+      "wetness": 0.05167938617639356,
+      "overcast": 0.04392747824993452
+    },
+    {
+      "n": 6,
+      "at": 1794071440456,
+      "pos": {
+        "x": 21.06878779945002,
+        "z": -49.75593869232938
+      },
+      "target": {
+        "x": 11.666,
+        "z": -28.696
+      },
+      "facing": 1.9907170421951268,
+      "of": {
+        "entityId": "sacrifice_mw49aonk_4z",
+        "label": "what braveBat10 left, kept"
+      },
+      "why": "snap the neon line on the wall, see if it still shocks",
+      "dayPhase": 0.8671547743753979,
+      "wetness": 0.07499999999999896,
+      "overcast": 0.0937499999999987
+    },
+    {
+      "n": 7,
+      "at": 1794093466103,
+      "pos": {
+        "x": 95.38199487450623,
+        "z": -2.000745990030292
+      },
+      "target": {
+        "x": 94.286,
+        "z": -2.346
+      },
+      "facing": -2.836418859891799,
+      "of": {
+        "entityId": "food_mushrooms",
+        "label": "the mushrooms"
+      },
+      "why": "I want a snapshot of the pale mushrooms before the night drifts on.",
+      "dayPhase": 0.8377485071695238,
+      "wetness": 0.13870037074614283,
+      "overcast": 0.147895315134221
+    },
+    {
+      "n": 8,
+      "at": 1794096247962,
+      "pos": {
+        "x": -17.258000471032048,
+        "z": 6.383401803832795
+      },
+      "target": {
+        "x": -18.61,
+        "z": 7.25
+      },
+      "facing": 2.571587926800071,
+      "of": {
+        "entityId": "food_apple_tree",
+        "label": "the apple tree"
+      },
+      "why": "I want a quick shot of the fruit to remember how it looks today",
+      "dayPhase": 0.3072795431226216,
+      "wetness": 0.025644056437203775,
+      "overcast": 0.021797447971623207
+    },
+    {
+      "n": 9,
+      "at": 1794101286476,
+      "pos": {
+        "x": -0.9727047878504157,
+        "z": 4.9274982796759605
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.3758987644961542,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "I want a picture of the whole shrine to see if any new tags have appeared",
+      "dayPhase": 0.6285035014559549,
+      "wetness": 0.1232229387133067,
+      "overcast": 0.1047394979063107
+    },
+    {
+      "n": 10,
+      "at": 1794123009400,
+      "pos": {
+        "x": 34.50816912955222,
+        "z": -47.60655844428558
+      },
+      "target": {
+        "x": 33.189,
+        "z": -46.824
+      },
+      "facing": 2.6061728390968204,
+      "of": {
+        "entityId": "activity_wall_05",
+        "label": "the wall"
+      },
+      "why": "Grab a shot of the wall, see what sticks for the next tag",
+      "dayPhase": 0.6002990427937497,
+      "wetness": 0,
+      "overcast": 7.399534184551292e-260
+    },
+    {
+      "n": 11,
+      "at": 1794165776502,
+      "pos": {
+        "x": -8.146184241566822,
+        "z": 47.72697316669352
+      },
+      "target": {
+        "x": -9.35,
+        "z": 48.586
+      },
+      "facing": 2.5218062261367935,
+      "of": {
+        "entityId": "food_bakery",
+        "label": "the bakery"
+      },
+      "why": "Grab a shot of the bakery, the scent's still in the air and I might need the image later",
+      "dayPhase": 0.4939318556973228,
+      "wetness": 0,
+      "overcast": 2.0621081999300983e-189
+    },
+    {
+      "n": 12,
+      "at": 1794169314445,
+      "pos": {
+        "x": 32.007667654386644,
+        "z": -47.739036503393365
+      },
+      "target": {
+        "x": 33.189,
+        "z": -46.824
+      },
+      "facing": 0.6590476677960753,
+      "of": {
+        "entityId": "activity_wall_05",
+        "label": "the wall"
+      },
+      "why": "Got a shot of the wall to see if any new vibe shows up later",
+      "dayPhase": 0.7180431838223228,
+      "wetness": 0,
+      "overcast": 1.5962657773932634e-19
+    }
+  ]
+}
