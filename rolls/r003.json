@@ -1,0 +1,257 @@
+{
+  "id": "r003",
+  "shots": [
+    {
+      "n": 1,
+      "at": 1794929580936,
+      "pos": {
+        "x": 109.9117449899647,
+        "z": 23.973787180944676
+      },
+      "target": {
+        "x": 111.5,
+        "z": 24.55
+      },
+      "facing": 0.3480287259295165,
+      "of": {
+        "entityId": "activity_vending",
+        "label": "the vending machine"
+      },
+      "why": "to see what the camera actually does",
+      "dayPhase": 0.5601604460545436,
+      "wetness": 0,
+      "overcast": 3.484993249716286e-232
+    },
+    {
+      "n": 2,
+      "at": 1794933179320,
+      "pos": {
+        "x": 4.750028236289772,
+        "z": 46.13567401496563
+      },
+      "target": {
+        "x": 4.999,
+        "z": 47.767
+      },
+      "facing": 1.4193457457850451,
+      "of": {
+        "entityId": "activity_cinema",
+        "label": "the cinema"
+      },
+      "why": null,
+      "dayPhase": 0.7845354460545436,
+      "wetness": 0.004267364254383621,
+      "overcast": 0.03362725961622566
+    },
+    {
+      "n": 3,
+      "at": 1794938483190,
+      "pos": {
+        "x": 1.5939355378417657,
+        "z": 4.873513382544764
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.8868910836834254,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "capture the new thing left for me",
+      "dayPhase": 0.4069835647871649,
+      "wetness": 0,
+      "overcast": 4.233050515277808e-130
+    },
+    {
+      "n": 4,
+      "at": 1794940130411,
+      "pos": {
+        "x": 1.3280084901211489,
+        "z": 4.68617415747294
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.846944535999647,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "capture the tea offering",
+      "dayPhase": 0.5093924189538316,
+      "wetness": 0,
+      "overcast": 1.3828456621602629e-198
+    },
+    {
+      "n": 5,
+      "at": 1794941101978,
+      "pos": {
+        "x": 1.3865495776720975,
+        "z": 4.638085691533075
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.8612883251726218,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "capture the three personal notes",
+      "dayPhase": 0.5672732783288316,
+      "wetness": 0,
+      "overcast": 2.710019722034644e-237
+    },
+    {
+      "n": 6,
+      "at": 1794942602545,
+      "pos": {
+        "x": -57.270150569950964,
+        "z": 47.87688463257716
+      },
+      "target": {
+        "x": -58.167,
+        "z": 48.862
+      },
+      "facing": 2.3093278839336597,
+      "of": {
+        "entityId": "activity_studio",
+        "label": "the studio"
+      },
+      "why": "capture the wall as it is",
+      "dayPhase": 0.6620291377038315,
+      "wetness": 0,
+      "overcast": 2.4706517109042933e-17
+    },
+    {
+      "n": 7,
+      "at": 1794943812932,
+      "pos": {
+        "x": 109.91183652464122,
+        "z": 23.9723446194058
+      },
+      "target": {
+        "x": 111.5,
+        "z": 24.55
+      },
+      "facing": 0.34884963109118095,
+      "of": {
+        "entityId": "activity_vending",
+        "label": "the vending machine"
+      },
+      "why": null,
+      "dayPhase": 0.7371756220788316,
+      "wetness": 0,
+      "overcast": 1.3760383635210864e-67
+    },
+    {
+      "n": 8,
+      "at": 1794944733365,
+      "pos": {
+        "x": 22.65803965158051,
+        "z": -51.876261120134956
+      },
+      "target": {
+        "x": 21.834,
+        "z": -50.741
+      },
+      "facing": 2.198667423833899,
+      "of": {
+        "entityId": "activity_piano",
+        "label": "the piano"
+      },
+      "why": "capture the piano’s vibe before I tweak the track",
+      "dayPhase": 0.7893631220788315,
+      "wetness": 0.050599320134317005,
+      "overcast": 0.07300942211416903
+    },
+    {
+      "n": 9,
+      "at": 1794945919939,
+      "pos": {
+        "x": 85.07576833852426,
+        "z": -36.837933003911346
+      },
+      "target": {
+        "x": 84.6,
+        "z": -35.5
+      },
+      "facing": 1.9124508501641342,
+      "of": {
+        "entityId": "food_japanese",
+        "label": "the japanese"
+      },
+      "why": "snap the ramen, it's a quiet moment",
+      "dayPhase": 0.8591840856204982,
+      "wetness": 0.05850842586694832,
+      "overcast": 0.07973216198690566
+    },
+    {
+      "n": 10,
+      "at": 1794947570357,
+      "pos": {
+        "x": 94.17584216635952,
+        "z": -40.07418963471936
+      },
+      "target": {
+        "x": 94.4,
+        "z": -38.5
+      },
+      "facing": 1.4293515162026338,
+      "of": {
+        "entityId": "food_bakery_early",
+        "label": "the bakery early"
+      },
+      "why": "capture the vibe",
+      "dayPhase": 0.2555348564801669,
+      "wetness": 0.016828214387287287,
+      "overcast": 0.014303982229194193
+    },
+    {
+      "n": 11,
+      "at": 1794955225480,
+      "pos": {
+        "x": 83.2652407839754,
+        "z": 36.118196432866156
+      },
+      "target": {
+        "x": 81.71,
+        "z": 35.33
+      },
+      "facing": -2.6725196480275364,
+      "of": {
+        "entityId": "food_soup",
+        "label": "the soup"
+      },
+      "why": "gotta document the cart before it vanishes",
+      "dayPhase": 0.7320941012718335,
+      "wetness": 0.07950539411853177,
+      "overcast": 0.06757958500075201
+    },
+    {
+      "n": 12,
+      "at": 1794956235547,
+      "pos": {
+        "x": 24.796279387470346,
+        "z": -6.833651377616636
+      },
+      "target": {
+        "x": 25.565,
+        "z": -5.527
+      },
+      "facing": 1.0390141785795826,
+      "of": {
+        "entityId": "food_mcdonalds",
+        "label": "the mcdonalds"
+      },
+      "why": "snap the place before it empties",
+      "dayPhase": 0.7925856377301669,
+      "wetness": 0.15866770524001383,
+      "overcast": 0.16486754945401133
+    }
+  ]
+}
