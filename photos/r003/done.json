@@ -1,0 +1,92 @@
+{
+  "for": "r003:1795230241582",
+  "roll": "r003",
+  "at": "2026-11-21T03:13:48.949Z",
+  "photos": [
+    {
+      "n": 1,
+      "file": "01.png",
+      "of": "the vending machine",
+      "why": "to see what the camera actually does",
+      "at": 1794929580936
+    },
+    {
+      "n": 2,
+      "file": "02.png",
+      "of": "the cinema",
+      "why": null,
+      "at": 1794933179320
+    },
+    {
+      "n": 3,
+      "file": "03.png",
+      "of": "the shrine",
+      "why": "capture the new thing left for me",
+      "at": 1794938483190
+    },
+    {
+      "n": 4,
+      "file": "04.png",
+      "of": "the shrine",
+      "why": "capture the tea offering",
+      "at": 1794940130411
+    },
+    {
+      "n": 5,
+      "file": "05.png",
+      "of": "the shrine",
+      "why": "capture the three personal notes",
+      "at": 1794941101978
+    },
+    {
+      "n": 6,
+      "file": "06.png",
+      "of": "the studio",
+      "why": "capture the wall as it is",
+      "at": 1794942602545
+    },
+    {
+      "n": 7,
+      "file": "07.png",
+      "of": "the vending machine",
+      "why": null,
+      "at": 1794943812932
+    },
+    {
+      "n": 8,
+      "file": "08.png",
+      "of": "the piano",
+      "why": "capture the piano’s vibe before I tweak the track",
+      "at": 1794944733365
+    },
+    {
+      "n": 9,
+      "file": "09.png",
+      "of": "the japanese",
+      "why": "snap the ramen, it's a quiet moment",
+      "at": 1794945919939
+    },
+    {
+      "n": 10,
+      "file": "10.png",
+      "of": "the bakery early",
+      "why": "capture the vibe",
+      "at": 1794947570357
+    },
+    {
+      "n": 11,
+      "file": "11.png",
+      "of": "the soup",
+      "why": "gotta document the cart before it vanishes",
+      "at": 1794955225480
+    },
+    {
+      "n": 12,
+      "file": "12.png",
+      "of": "the mcdonalds",
+      "why": "snap the place before it empties",
+      "at": 1794956235547
+    }
+  ],
+  "of": "1a29ac01a266a27e67a4896db641122cb70d3ddb"
+}
