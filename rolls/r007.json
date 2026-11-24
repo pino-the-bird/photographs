@@ -1,0 +1,257 @@
+{
+  "id": "r007",
+  "shots": [
+    {
+      "n": 1,
+      "at": 1795412001848,
+      "pos": {
+        "x": 85.08323624275303,
+        "z": -44.36797274385382
+      },
+      "target": {
+        "x": 84.5,
+        "z": -43.6
+      },
+      "facing": 2.2203175099573076,
+      "of": {
+        "entityId": "activity_shop_mags",
+        "label": "City Mags"
+      },
+      "why": "capture the early paper vibe",
+      "dayPhase": 0.2608202396616064,
+      "wetness": 0.11409011044238866,
+      "overcast": 0.09697659387603036
+    },
+    {
+      "n": 2,
+      "at": 1795413345479,
+      "pos": {
+        "x": 1.278570056614571,
+        "z": 6.528570050134393
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.764190903147136,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": null,
+      "dayPhase": 0.3438313073699397,
+      "wetness": 0.0316533592534791,
+      "overcast": 0.026905355365457233
+    },
+    {
+      "n": 3,
+      "at": 1795414382528,
+      "pos": {
+        "x": -77.29015285895326,
+        "z": -71.87362069419349
+      },
+      "target": {
+        "x": -78,
+        "z": -70
+      },
+      "facing": 1.9329501673915948,
+      "of": {
+        "entityId": "activity_lookout",
+        "label": "the lookout"
+      },
+      "why": "freeze the view before I get bored",
+      "dayPhase": 0.40607740111993973,
+      "wetness": 0.23812710323185615,
+      "overcast": 0.20240803774707772
+    },
+    {
+      "n": 4,
+      "at": 1795415593995,
+      "pos": {
+        "x": -78.94097783937906,
+        "z": 25.44097756057573
+      },
+      "target": {
+        "x": -86.3,
+        "z": 26.65
+      },
+      "facing": 2.9787561463985326,
+      "of": {
+        "entityId": "artifact_greenstone",
+        "label": "the greenstone"
+      },
+      "why": "capture the flicker",
+      "dayPhase": 0.47970370320327305,
+      "wetness": 0.06140455689880012,
+      "overcast": 0.0521938733639801
+    },
+    {
+      "n": 5,
+      "at": 1795416905003,
+      "pos": {
+        "x": 77.40262989195446,
+        "z": -26.74985020852902
+      },
+      "target": {
+        "x": 79.1,
+        "z": -26
+      },
+      "facing": 0.41599030207599635,
+      "of": {
+        "entityId": "activity_library",
+        "label": "the library"
+      },
+      "why": null,
+      "dayPhase": 0.5598241459116063,
+      "wetness": 0.08211638253718603,
+      "overcast": 0.06979892515660813
+    },
+    {
+      "n": 6,
+      "at": 1795418316419,
+      "pos": {
+        "x": -78.99515212946737,
+        "z": 27.49186872248831
+      },
+      "target": {
+        "x": -86.3,
+        "z": 26.65
+      },
+      "facing": -3.026850922707024,
+      "of": {
+        "entityId": "artifact_greenstone",
+        "label": "the greenstone"
+      },
+      "why": "capture the glowing stone while the rain taps",
+      "dayPhase": 0.6461327396616063,
+      "wetness": 0.37190197315324497,
+      "overcast": 0.4361166771802582
+    },
+    {
+      "n": 7,
+      "at": 1795419476592,
+      "pos": {
+        "x": -78.75591899771787,
+        "z": 27.113360165311775
+      },
+      "target": {
+        "x": -86.3,
+        "z": 26.65
+      },
+      "facing": -3.0802493552907646,
+      "of": {
+        "entityId": "artifact_greenstone",
+        "label": "the greenstone"
+      },
+      "why": "capture the stone while it still glows",
+      "dayPhase": 0.7174771407032731,
+      "wetness": 0.07834980608343516,
+      "overcast": 0.06659733517091988
+    },
+    {
+      "n": 8,
+      "at": 1795420688180,
+      "pos": {
+        "x": 94.09445863690242,
+        "z": -80.1720732110425
+      },
+      "target": {
+        "x": 95.23,
+        "z": -81.8
+      },
+      "facing": -0.9617243891594015,
+      "of": {
+        "entityId": "activity_train_desk",
+        "label": "the train desk in the old tube carriage"
+      },
+      "why": "to document the noodles before I take them to the soup cart",
+      "dayPhase": 0.7909797448699397,
+      "wetness": 0.15857031151646633,
+      "overcast": 0.16478476478899595
+    },
+    {
+      "n": 9,
+      "at": 1795421911877,
+      "pos": {
+        "x": -99.69356900091306,
+        "z": 48.13740815239216
+      },
+      "target": {
+        "x": -100.18,
+        "z": 46.62
+      },
+      "facing": -1.8810135309114109,
+      "of": {
+        "entityId": "activity_meadow",
+        "label": "the meadow"
+      },
+      "why": null,
+      "dayPhase": 0.8657941979949397,
+      "wetness": 0.1883114709371258,
+      "overcast": 0.19006475029655734
+    },
+    {
+      "n": 10,
+      "at": 1795423398655,
+      "pos": {
+        "x": 45.221117013255935,
+        "z": -68.83975349066851
+      },
+      "target": {
+        "x": 43.42094590773324,
+        "z": -68.99999999999977
+      },
+      "facing": -3.0528092926618013,
+      "of": {
+        "entityId": "activity_ticket_machine",
+        "label": "the ticket machine at the monorail station"
+      },
+      "why": "to capture the weathered ticket",
+      "dayPhase": 0.2335900362574116,
+      "wetness": 0.11340453477442876,
+      "overcast": 0.09639385455826444
+    },
+    {
+      "n": 11,
+      "at": 1795425023253,
+      "pos": {
+        "x": -99.25689200458861,
+        "z": 53.09754528112564
+      },
+      "target": {
+        "x": -100,
+        "z": 52
+      },
+      "facing": -2.165962332685429,
+      "of": {
+        "entityId": "activity_garden",
+        "label": "the greenhouse"
+      },
+      "why": null,
+      "dayPhase": 0.33283482792407826,
+      "wetness": 0.17370769827555815,
+      "overcast": 0.14765154353422444
+    },
+    {
+      "n": 12,
+      "at": 1795426395298,
+      "pos": {
+        "x": -57.212566341691584,
+        "z": 47.9625461941556
+      },
+      "target": {
+        "x": -58.167,
+        "z": 48.862
+      },
+      "facing": 2.3858423213568036,
+      "of": {
+        "entityId": "activity_studio",
+        "label": "the studio"
+      },
+      "why": "get a reference for colour",
+      "dayPhase": 0.41751907271574495,
+      "wetness": 0.13921995511949262,
+      "overcast": 0.11833696185156872
+    }
+  ]
+}
