@@ -1,0 +1,257 @@
+{
+  "id": "r010",
+  "shots": [
+    {
+      "n": 1,
+      "at": 1795462082851,
+      "pos": {
+        "x": -15.135748837998078,
+        "z": -53.17964743826608
+      },
+      "target": {
+        "x": -14.454,
+        "z": -54.52
+      },
+      "facing": -1.1002654269029206,
+      "of": {
+        "entityId": "activity_museum",
+        "label": "the museum"
+      },
+      "why": "snap the quiet, the old glass, the market whisper waiting",
+      "dayPhase": 0.42624559489320274,
+      "wetness": 0.22050897351088813,
+      "overcast": 0.1874326274842549
+    },
+    {
+      "n": 2,
+      "at": 1795468598266,
+      "pos": {
+        "x": 83.28375574607436,
+        "z": 36.119500491659494
+      },
+      "target": {
+        "x": 81.71,
+        "z": 35.33
+      },
+      "facing": -2.67661275650788,
+      "of": {
+        "entityId": "food_soup",
+        "label": "the soup"
+      },
+      "why": "capture the soup vibe for later remix",
+      "dayPhase": 0.8255750219765361,
+      "wetness": 0.1605075366831432,
+      "overcast": 0.16643140618067212
+    },
+    {
+      "n": 3,
+      "at": 1795472940112,
+      "pos": {
+        "x": 29.38707771914166,
+        "z": 10.419400034303978
+      },
+      "target": {
+        "x": 30.022,
+        "z": 11.608
+      },
+      "facing": 1.0801827129015966,
+      "of": {
+        "entityId": "food_coffee",
+        "label": "the coffee"
+      },
+      "why": "to capture the mood before printing",
+      "dayPhase": 0.3697358940783198,
+      "wetness": 0.07035751045150422,
+      "overcast": 0.05980388388377859
+    },
+    {
+      "n": 4,
+      "at": 1795473889952,
+      "pos": {
+        "x": 51.26293885252194,
+        "z": -14.013072814711496
+      },
+      "target": {
+        "x": 51.8,
+        "z": -14.5
+      },
+      "facing": -0.7364777211327623,
+      "of": {
+        "entityId": "activity_junkheap",
+        "label": "the junk heap"
+      },
+      "why": "to see if anything else looks useful",
+      "dayPhase": 0.4262723524116532,
+      "wetness": 0.149442862778995,
+      "overcast": 0.12702643336214572
+    },
+    {
+      "n": 5,
+      "at": 1795474920820,
+      "pos": {
+        "x": -100.20784615465746,
+        "z": 48.100220860581054
+      },
+      "target": {
+        "x": -100.18,
+        "z": 46.62
+      },
+      "facing": -1.5519863834938847,
+      "of": {
+        "entityId": "activity_meadow",
+        "label": "the meadow"
+      },
+      "why": "just a breath of grass",
+      "dayPhase": 0.4873661024116532,
+      "wetness": 0.2098570404186941,
+      "overcast": 0.17837848435589
+    },
+    {
+      "n": 6,
+      "at": 1795475854639,
+      "pos": {
+        "x": 63.77719546123223,
+        "z": -94.6082695165764
+      },
+      "target": {
+        "x": 67.57,
+        "z": -97.15
+      },
+      "facing": -0.5904070864789007,
+      "of": {
+        "entityId": "activity_laundrette",
+        "label": "the laundrette"
+      },
+      "why": "capture the drum rhythm for a new track",
+      "dayPhase": 0.5403088107449865,
+      "wetness": 0.04935931596699672,
+      "overcast": 0.04195541857194721
+    },
+    {
+      "n": 7,
+      "at": 1795476768470,
+      "pos": {
+        "x": -78.64250073963527,
+        "z": 27.10749687006529
+      },
+      "target": {
+        "x": -86.3,
+        "z": 26.65
+      },
+      "facing": -3.0819186427050793,
+      "of": {
+        "entityId": "artifact_greenstone",
+        "label": "the greenstone"
+      },
+      "why": "to see what I missed",
+      "dayPhase": 0.5949605034533199,
+      "wetness": 0.04134935762333658,
+      "overcast": 0.03514695397983609
+    },
+    {
+      "n": 8,
+      "at": 1795477811966,
+      "pos": {
+        "x": -99.78786356704238,
+        "z": 45.47299568667765
+      },
+      "target": {
+        "x": -100.18,
+        "z": 46.62
+      },
+      "facing": 1.9002179646541524,
+      "of": {
+        "entityId": "activity_meadow",
+        "label": "the meadow"
+      },
+      "why": "capture the grass and the feeling of lying there",
+      "dayPhase": 0.6566434461616532,
+      "wetness": 0.06147721734197147,
+      "overcast": 0.05225563474067575
+    },
+    {
+      "n": 9,
+      "at": 1795479383715,
+      "pos": {
+        "x": -77.1486418591211,
+        "z": -71.27698232544348
+      },
+      "target": {
+        "x": -78,
+        "z": -70
+      },
+      "facing": 2.1588187674277006,
+      "of": {
+        "entityId": "activity_lookout",
+        "label": "the lookout"
+      },
+      "why": "capture the dry sky and the whole patch so I can see what needs tightening",
+      "dayPhase": 0.7495666232449865,
+      "wetness": 0.01605356653506861,
+      "overcast": 0.013645531554808318
+    },
+    {
+      "n": 10,
+      "at": 1795480460049,
+      "pos": {
+        "x": -0.2573569101814098,
+        "z": -53.934928610910866
+      },
+      "target": {
+        "x": 1.26,
+        "z": -54.268
+      },
+      "facing": -0.2160805980881392,
+      "of": {
+        "entityId": "activity_tattoo",
+        "label": "the tattoo parlour"
+      },
+      "why": "capture the needle buzz and the glass glassy silence",
+      "dayPhase": 0.8129943576199865,
+      "wetness": 0.07980311370630686,
+      "overcast": 0.09783264665036041
+    },
+    {
+      "n": 11,
+      "at": 1795483026916,
+      "pos": {
+        "x": 23.897631887285637,
+        "z": -33.415345631701335
+      },
+      "target": {
+        "x": 23.089,
+        "z": -34.548
+      },
+      "facing": -2.1908078665446187,
+      "of": {
+        "entityId": "activity_internet",
+        "label": "the internet cafe"
+      },
+      "why": "packet",
+      "dayPhase": 0.25738926212751756,
+      "wetness": 0,
+      "overcast": 2.930262164881933e-33
+    },
+    {
+      "n": 12,
+      "at": 1795484892388,
+      "pos": {
+        "x": 29.614102570613177,
+        "z": 10.210700837334059
+      },
+      "target": {
+        "x": 30.022,
+        "z": 11.608
+      },
+      "facing": 1.2867701741876276,
+      "of": {
+        "entityId": "food_coffee",
+        "label": "the coffee"
+      },
+      "why": "capture the vibe",
+      "dayPhase": 0.36745762150251754,
+      "wetness": 0.09380224105437829,
+      "overcast": 0.07973190489622155
+    }
+  ]
+}
