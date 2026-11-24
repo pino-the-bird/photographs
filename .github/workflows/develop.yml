@@ -15,7 +15,8 @@ permissions:
 jobs:
   develop:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    # (a roll is about six minutes here: every roll he hands in goes in one run)
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
