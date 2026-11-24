@@ -1,0 +1,257 @@
+{
+  "id": "r005",
+  "shots": [
+    {
+      "n": 1,
+      "at": 1795380394239,
+      "pos": {
+        "x": -13.403947631190686,
+        "z": -53.875570687128715
+      },
+      "target": {
+        "x": -14.454,
+        "z": -54.52
+      },
+      "facing": -2.591152056465138,
+      "of": {
+        "entityId": "activity_museum",
+        "label": "the museum"
+      },
+      "why": "the keys are quiet, and I want to lock in their silence",
+      "dayPhase": 0.47829936832948416,
+      "wetness": 0.07663550873107954,
+      "overcast": 0.0651401824214176
+    },
+    {
+      "n": 2,
+      "at": 1795381468954,
+      "pos": {
+        "x": 77.4443893922933,
+        "z": -26.749857239090623
+      },
+      "target": {
+        "x": 79.1,
+        "z": -26
+      },
+      "facing": 0.4252785843028565,
+      "of": {
+        "entityId": "activity_library",
+        "label": "the library"
+      },
+      "why": "capture quiet",
+      "dayPhase": 0.5431659047878175,
+      "wetness": 0.14430841724045168,
+      "overcast": 0.12266215465438393
+    },
+    {
+      "n": 3,
+      "at": 1795382389157,
+      "pos": {
+        "x": 6.151908145629986,
+        "z": 47.37294228480252
+      },
+      "target": {
+        "x": 4.999,
+        "z": 47.767
+      },
+      "facing": 2.8122464355923826,
+      "of": {
+        "entityId": "activity_cinema",
+        "label": "the cinema"
+      },
+      "why": "snap the dry light, the crowd, the flicker – just to see what a movie feels like when I'm not watching",
+      "dayPhase": 0.5990871287461508,
+      "wetness": 0.040722441818456044,
+      "overcast": 0.034614075545687635
+    },
+    {
+      "n": 4,
+      "at": 1795383608971,
+      "pos": {
+        "x": 1.9059238574798139,
+        "z": -53.38789043358369
+      },
+      "target": {
+        "x": 1.26,
+        "z": -54.268
+      },
+      "facing": -2.203922012360506,
+      "of": {
+        "entityId": "activity_tattoo",
+        "label": "the tattoo parlour"
+      },
+      "why": "need a visual of the needle buzz",
+      "dayPhase": 0.6723358266628174,
+      "wetness": 0.17293888256471912,
+      "overcast": 0.14699805018001125
+    },
+    {
+      "n": 5,
+      "at": 1795384721938,
+      "pos": {
+        "x": -99.6536385218701,
+        "z": 50.75021045723774
+      },
+      "target": {
+        "x": -100,
+        "z": 52
+      },
+      "facing": 1.8411471273420636,
+      "of": {
+        "entityId": "activity_garden",
+        "label": "the greenhouse"
+      },
+      "why": "snap the beds before they dry",
+      "dayPhase": 0.7391912954128175,
+      "wetness": 0.01785331492872082,
+      "overcast": 0.015175317689412698
+    },
+    {
+      "n": 6,
+      "at": 1795385730479,
+      "pos": {
+        "x": -0.38100926184862416,
+        "z": 6.826645498526436
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.5150420933859134,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "need a fresh view of the cat statue and the bits people leave",
+      "dayPhase": 0.7995070506211508,
+      "wetness": 0.0822281475954627,
+      "overcast": 0.09989392545614287
+    },
+    {
+      "n": 7,
+      "at": 1795388735620,
+      "pos": {
+        "x": -99.39236818005216,
+        "z": 45.5640849818379
+      },
+      "target": {
+        "x": -100.18,
+        "z": 46.62
+      },
+      "facing": 2.211683362816543,
+      "of": {
+        "entityId": "activity_meadow",
+        "label": "the meadow"
+      },
+      "why": "capture the vibe before it slips",
+      "dayPhase": 0.2692888109234196,
+      "wetness": 0,
+      "overcast": 3.2114918704756933e-42
+    },
+    {
+      "n": 8,
+      "at": 1795389664757,
+      "pos": {
+        "x": -99.52842190595567,
+        "z": 45.48582441297459
+      },
+      "target": {
+        "x": -100.18,
+        "z": 46.62
+      },
+      "facing": 2.092250930083725,
+      "of": {
+        "entityId": "activity_meadow",
+        "label": "the meadow"
+      },
+      "why": null,
+      "dayPhase": 0.32469245675675296,
+      "wetness": 0.13337634180449037,
+      "overcast": 0.11336989053381681
+    },
+    {
+      "n": 9,
+      "at": 1795390573093,
+      "pos": {
+        "x": -100.24799827190525,
+        "z": 50.572356705337604
+      },
+      "target": {
+        "x": -100,
+        "z": 52
+      },
+      "facing": 1.3988010002115066,
+      "of": {
+        "entityId": "activity_garden",
+        "label": "the greenhouse"
+      },
+      "why": "snap the greenhouse vibe",
+      "dayPhase": 0.37812019113175294,
+      "wetness": 0,
+      "overcast": 5.318208977690272e-115
+    },
+    {
+      "n": 10,
+      "at": 1795391757679,
+      "pos": {
+        "x": -99.77805827758255,
+        "z": 50.61932716117639
+      },
+      "target": {
+        "x": -100,
+        "z": 52
+      },
+      "facing": 1.730181768376398,
+      "of": {
+        "entityId": "activity_garden",
+        "label": "the greenhouse"
+      },
+      "why": "snap the greenhouse vibe",
+      "dayPhase": 0.4498845140484196,
+      "wetness": 0,
+      "overcast": 5.41256991301449e-163
+    },
+    {
+      "n": 11,
+      "at": 1795392838090,
+      "pos": {
+        "x": 57.89800805580683,
+        "z": 2.9099030123256195
+      },
+      "target": {
+        "x": 58.649,
+        "z": 1.463
+      },
+      "facing": -1.0920376789890667,
+      "of": {
+        "entityId": "activity_salon",
+        "label": "the salon"
+      },
+      "why": "grab a visual cue for the piece",
+      "dayPhase": 0.5148942796734196,
+      "wetness": 0,
+      "overcast": 1.8119620268929867e-206
+    },
+    {
+      "n": 12,
+      "at": 1795393771157,
+      "pos": {
+        "x": 58.1717359526004,
+        "z": 3.0793811149969157
+      },
+      "target": {
+        "x": 58.649,
+        "z": 1.463
+      },
+      "facing": -1.2836873451011162,
+      "of": {
+        "entityId": "activity_salon",
+        "label": "the salon"
+      },
+      "why": null,
+      "dayPhase": 0.5705160244650863,
+      "wetness": 0,
+      "overcast": 1.1511443710175709e-243
+    }
+  ]
+}
