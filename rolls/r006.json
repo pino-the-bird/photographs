@@ -1,0 +1,257 @@
+{
+  "id": "r006",
+  "shots": [
+    {
+      "n": 1,
+      "at": 1795394955942,
+      "pos": {
+        "x": 81.02759645926001,
+        "z": 36.4728550588886
+      },
+      "target": {
+        "x": 81.71,
+        "z": 35.33
+      },
+      "facing": -1.0325088213603413,
+      "of": {
+        "entityId": "food_soup",
+        "label": "the soup"
+      },
+      "why": "get a visual cue for the piece",
+      "dayPhase": 0.6418050869650863,
+      "wetness": 0,
+      "overcast": 2.4355560333374613e-291
+    },
+    {
+      "n": 2,
+      "at": 1795396202100,
+      "pos": {
+        "x": -57.31610311198541,
+        "z": 47.919402108048516
+      },
+      "target": {
+        "x": -58.167,
+        "z": 48.862
+      },
+      "facing": 2.305109190065561,
+      "of": {
+        "entityId": "activity_studio",
+        "label": "the studio"
+      },
+      "why": "bench closed, need a fresh sound",
+      "dayPhase": 0.717993238006753,
+      "wetness": 0,
+      "overcast": 1.5e-322
+    },
+    {
+      "n": 3,
+      "at": 1795397368388,
+      "pos": {
+        "x": 51.250079062197685,
+        "z": -14.00205701133775
+      },
+      "target": {
+        "x": 51.8,
+        "z": -14.5
+      },
+      "facing": -0.7358350669208299,
+      "of": {
+        "entityId": "activity_junkheap",
+        "label": "the junk heap"
+      },
+      "why": "capture the chaos for later remix",
+      "dayPhase": 0.7878207119650863,
+      "wetness": 0.0041396156530882355,
+      "overcast": 0.033518673305124584
+    },
+    {
+      "n": 4,
+      "at": 1795398532701,
+      "pos": {
+        "x": 94.07324883646916,
+        "z": -80.24869602001442
+      },
+      "target": {
+        "x": 95.23,
+        "z": -81.8
+      },
+      "facing": -0.9300761907199752,
+      "of": {
+        "entityId": "activity_train_desk",
+        "label": "the train desk in the old tube carriage"
+      },
+      "why": "capture the flat vibe of the desk after a run",
+      "dayPhase": 0.8596989671734196,
+      "wetness": 0.001822305796526258,
+      "overcast": 0.0315489599270469
+    },
+    {
+      "n": 5,
+      "at": 1795400035692,
+      "pos": {
+        "x": 0.8726196129496064,
+        "z": 6.827582697959035
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.6979151480933277,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "sketch the cat statue",
+      "dayPhase": 0.24357529010347745,
+      "wetness": 0.0071980403640517915,
+      "overcast": 0.006118334309444023
+    },
+    {
+      "n": 6,
+      "at": 1795401002638,
+      "pos": {
+        "x": -76.87230141003732,
+        "z": 20.828704794827654
+      },
+      "target": {
+        "x": -75.655,
+        "z": 20.291
+      },
+      "facing": -0.415945890452655,
+      "of": {
+        "entityId": "activity_pond",
+        "label": "the pond"
+      },
+      "why": "sketch the cat statue",
+      "dayPhase": 0.3017133109368108,
+      "wetness": 0,
+      "overcast": 1.1225264797890278e-62
+    },
+    {
+      "n": 7,
+      "at": 1795401998771,
+      "pos": {
+        "x": 1.3791587158812715,
+        "z": 4.6409972951880185
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.8596534959092927,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "capture the shrine vibe",
+      "dayPhase": 0.3613617484368108,
+      "wetness": 0,
+      "overcast": 1.4465324454612846e-102
+    },
+    {
+      "n": 8,
+      "at": 1795403572679,
+      "pos": {
+        "x": -77.12416755129172,
+        "z": -71.29253993744977
+      },
+      "target": {
+        "x": -78,
+        "z": -70
+      },
+      "facing": 2.1663339317930737,
+      "of": {
+        "entityId": "activity_lookout",
+        "label": "the lookout"
+      },
+      "why": "capture the shrine vibe",
+      "dayPhase": 0.4572276338534775,
+      "wetness": 0,
+      "overcast": 1.1221635059870986e-166
+    },
+    {
+      "n": 9,
+      "at": 1795405184212,
+      "pos": {
+        "x": 1.3477134209384236,
+        "z": 4.653663765514067
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.8526871969403678,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "capture the vibe for the market edit",
+      "dayPhase": 0.5548806286451441,
+      "wetness": 0,
+      "overcast": 5.554633791780058e-232
+    },
+    {
+      "n": 10,
+      "at": 1795406600693,
+      "pos": {
+        "x": 92.50000265515463,
+        "z": -3.0491393351286558
+      },
+      "target": {
+        "x": 94.286,
+        "z": -2.346
+      },
+      "facing": 0.3750597815387542,
+      "of": {
+        "entityId": "food_mushrooms",
+        "label": "the mushrooms"
+      },
+      "why": "to capture vibe",
+      "dayPhase": 0.6411013317701442,
+      "wetness": 0,
+      "overcast": 1.2150527813503862e-289
+    },
+    {
+      "n": 11,
+      "at": 1795408337496,
+      "pos": {
+        "x": 45.224086057316214,
+        "z": -68.84021848105448
+      },
+      "target": {
+        "x": 43.42094590773324,
+        "z": -68.99999999999977
+      },
+      "facing": -3.0532105810489325,
+      "of": {
+        "entityId": "activity_ticket_machine",
+        "label": "the ticket machine at the monorail station"
+      },
+      "why": "capture the raw edge I hear when I play it",
+      "dayPhase": 0.7467816703118108,
+      "wetness": 0.08685134222769127,
+      "overcast": 0.07382364089353757
+    },
+    {
+      "n": 12,
+      "at": 1795410165831,
+      "pos": {
+        "x": 77.45770635772296,
+        "z": -26.74984753509605
+      },
+      "target": {
+        "x": 79.1,
+        "z": -26
+      },
+      "facing": 0.4283169517029594,
+      "of": {
+        "entityId": "activity_library",
+        "label": "the library"
+      },
+      "why": null,
+      "dayPhase": 0.8586924776034774,
+      "wetness": 0.05845193207974114,
+      "overcast": 0.07968414226777956
+    }
+  ]
+}
