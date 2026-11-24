@@ -1,0 +1,257 @@
+{
+  "id": "r009",
+  "shots": [
+    {
+      "n": 1,
+      "at": 1795444549551,
+      "pos": {
+        "x": 1.9333155861450662,
+        "z": -53.33717789256175
+      },
+      "target": {
+        "x": 1.26,
+        "z": -54.268
+      },
+      "facing": -2.197025965765948,
+      "of": {
+        "entityId": "activity_tattoo",
+        "label": "the tattoo parlour"
+      },
+      "why": null,
+      "dayPhase": 0.8085309591385778,
+      "wetness": 0.0033778691589196885,
+      "overcast": 0.032871188785081315
+    },
+    {
+      "n": 2,
+      "at": 1795449780367,
+      "pos": {
+        "x": -100.24960363470797,
+        "z": 45.35411966625169
+      },
+      "target": {
+        "x": -100.18,
+        "z": 46.62
+      },
+      "facing": 1.5158672659399934,
+      "of": {
+        "entityId": "activity_meadow",
+        "label": "the meadow"
+      },
+      "why": "capture the curl of light for the next train",
+      "dayPhase": 0.4042914847546705,
+      "wetness": 0.04398606284389238,
+      "overcast": 0.03738815341730852
+    },
+    {
+      "n": 3,
+      "at": 1795450783911,
+      "pos": {
+        "x": 60.00459432265709,
+        "z": 2.3686486020218527
+      },
+      "target": {
+        "x": 58.649,
+        "z": 1.463
+      },
+      "facing": -2.5526106215992663,
+      "of": {
+        "entityId": "activity_salon",
+        "label": "the salon"
+      },
+      "why": "snap the salon for later",
+      "dayPhase": 0.46339304725467056,
+      "wetness": 0,
+      "overcast": 0
+    },
+    {
+      "n": 4,
+      "at": 1795451717527,
+      "pos": {
+        "x": -13.511517359485971,
+        "z": -55.117327050295195
+      },
+      "target": {
+        "x": -14.454,
+        "z": -54.52
+      },
+      "facing": 2.5767042250804497,
+      "of": {
+        "entityId": "activity_museum",
+        "label": "the museum"
+      },
+      "why": "need some visual fuel for the next track",
+      "dayPhase": 0.5207302868380039,
+      "wetness": 0,
+      "overcast": 0
+    },
+    {
+      "n": 5,
+      "at": 1795452701153,
+      "pos": {
+        "x": 5.619246551329838,
+        "z": 46.34464642976877
+      },
+      "target": {
+        "x": 4.999,
+        "z": 47.767
+      },
+      "facing": 1.9820063663485679,
+      "of": {
+        "entityId": "activity_cinema",
+        "label": "the cinema"
+      },
+      "why": "capture the bad vibe of this place",
+      "dayPhase": 0.5787446097546706,
+      "wetness": 0,
+      "overcast": 0
+    },
+    {
+      "n": 6,
+      "at": 1795453640530,
+      "pos": {
+        "x": 85.74939542354245,
+        "z": -66.49897197681966
+      },
+      "target": {
+        "x": 86,
+        "z": -65.2
+      },
+      "facing": 1.3802125119510222,
+      "of": {
+        "entityId": "activity_shop_workshop",
+        "label": "the community workshop"
+      },
+      "why": "snap the job board for the next train idea",
+      "dayPhase": 0.6317914847546705,
+      "wetness": 0.15243998025527952,
+      "overcast": 0.1295739832169876
+    },
+    {
+      "n": 7,
+      "at": 1795454599777,
+      "pos": {
+        "x": -0.433937383995307,
+        "z": -54.31938956176972
+      },
+      "target": {
+        "x": 1.26,
+        "z": -54.268
+      },
+      "facing": 0.030328042475357437,
+      "of": {
+        "entityId": "activity_tattoo",
+        "label": "the tattoo parlour"
+      },
+      "why": "to capture the needle buzz for later remix",
+      "dayPhase": 0.6893858857963372,
+      "wetness": 0,
+      "overcast": 0
+    },
+    {
+      "n": 8,
+      "at": 1795455534054,
+      "pos": {
+        "x": 29.40822831478789,
+        "z": 10.36397484442512
+      },
+      "target": {
+        "x": 30.022,
+        "z": 11.608
+      },
+      "facing": 1.112462249665427,
+      "of": {
+        "entityId": "food_coffee",
+        "label": "the coffee"
+      },
+      "why": "capture the vibe before it drains",
+      "dayPhase": 0.7452778128796705,
+      "wetness": 0.2280398487535672,
+      "overcast": 0.2967495690061571
+    },
+    {
+      "n": 9,
+      "at": 1795456458533,
+      "pos": {
+        "x": 77.48064514338486,
+        "z": -26.74982435596044
+      },
+      "target": {
+        "x": 79.1,
+        "z": -26
+      },
+      "facing": 0.433644048771702,
+      "of": {
+        "entityId": "activity_library",
+        "label": "the library"
+      },
+      "why": "capture the quiet corner with the green lamp and the book spread",
+      "dayPhase": 0.7999620576713372,
+      "wetness": 0.05178337310762349,
+      "overcast": 0.07401586714147954
+    },
+    {
+      "n": 10,
+      "at": 1795457383848,
+      "pos": {
+        "x": 109.89539291784763,
+        "z": 23.961321974105378
+      },
+      "target": {
+        "x": 111.5,
+        "z": 24.55
+      },
+      "facing": 0.3516217254005664,
+      "of": {
+        "entityId": "activity_vending",
+        "label": "the vending machine"
+      },
+      "why": "to document the stuck energy drink",
+      "dayPhase": 0.8551769014213372,
+      "wetness": 0.11839749403424388,
+      "overcast": 0.13063786992910686
+    },
+    {
+      "n": 11,
+      "at": 1795459237315,
+      "pos": {
+        "x": 45.221117013255935,
+        "z": -68.83975349066851
+      },
+      "target": {
+        "x": 43.42094590773324,
+        "z": -68.99999999999977
+      },
+      "facing": -3.0528092926618013,
+      "of": {
+        "entityId": "activity_ticket_machine",
+        "label": "the ticket machine at the monorail station"
+      },
+      "why": "to freeze the ticket's odd cut and tear, maybe a clue",
+      "dayPhase": 0.2561837459348694,
+      "wetness": 0.016940805266309065,
+      "overcast": 0.014399684476362704
+    },
+    {
+      "n": 12,
+      "at": 1795460343476,
+      "pos": {
+        "x": 77.3706317358846,
+        "z": -26.749892158406258
+      },
+      "target": {
+        "x": 79.1,
+        "z": -26
+      },
+      "facing": 0.4091508502786313,
+      "of": {
+        "entityId": "activity_library",
+        "label": "the library"
+      },
+      "why": "Miss Brill",
+      "dayPhase": 0.3218412980182027,
+      "wetness": 0.02806118222040681,
+      "overcast": 0.02385200488734579
+    }
+  ]
+}
