@@ -1,0 +1,257 @@
+{
+  "id": "r004",
+  "shots": [
+    {
+      "n": 1,
+      "at": 1795365657298,
+      "pos": {
+        "x": 51.26024475800251,
+        "z": -14.073957674912798
+      },
+      "target": {
+        "x": 51.8,
+        "z": -14.5
+      },
+      "facing": -0.6681978379869515,
+      "of": {
+        "entityId": "activity_junkheap",
+        "label": "the junk heap"
+      },
+      "why": "to see what hides",
+      "dayPhase": 0.30523841397974777,
+      "wetness": 0.025302891154143203,
+      "overcast": 0.021507457481021723
+    },
+    {
+      "n": 2,
+      "at": 1795366680353,
+      "pos": {
+        "x": 66.45010737110961,
+        "z": -102.86025454120883
+      },
+      "target": {
+        "x": 67.57,
+        "z": -97.15
+      },
+      "facing": 1.3771347248332533,
+      "of": {
+        "entityId": "activity_laundrette",
+        "label": "the laundrette"
+      },
+      "why": null,
+      "dayPhase": 0.3668692733547478,
+      "wetness": 0.035337758231673365,
+      "overcast": 0.030037094496922358
+    },
+    {
+      "n": 3,
+      "at": 1795367758831,
+      "pos": {
+        "x": 77.46139074284478,
+        "z": -26.749873486896718
+      },
+      "target": {
+        "x": 79.1,
+        "z": -26
+      },
+      "facing": 0.429179241668694,
+      "of": {
+        "entityId": "activity_library",
+        "label": "the library"
+      },
+      "why": "capture the quiet corner",
+      "dayPhase": 0.43324622647974775,
+      "wetness": 0.04545845316890361,
+      "overcast": 0.038639685193568064
+    },
+    {
+      "n": 4,
+      "at": 1795368864771,
+      "pos": {
+        "x": 77.58898029094615,
+        "z": 2.2384588700897794
+      },
+      "target": {
+        "x": 79.305,
+        "z": 1.463
+      },
+      "facing": -0.42442779334319203,
+      "of": {
+        "entityId": "activity_bar",
+        "label": "the bar"
+      },
+      "why": "need a drink",
+      "dayPhase": 0.49996823168808113,
+      "wetness": 0.05480560171187502,
+      "overcast": 0.046584761455093764
+    },
+    {
+      "n": 5,
+      "at": 1795369770991,
+      "pos": {
+        "x": 30.29809673767258,
+        "z": 12.876066697587273
+      },
+      "target": {
+        "x": 30.022,
+        "z": 11.608
+      },
+      "facing": -1.7851808325431278,
+      "of": {
+        "entityId": "food_coffee",
+        "label": "the coffee"
+      },
+      "why": "Flat white, need to capture the steam before it goes cold",
+      "dayPhase": 0.5543464868964144,
+      "wetness": 0.3242395150843952,
+      "overcast": 0.38060358782173587
+    },
+    {
+      "n": 6,
+      "at": 1795371069069,
+      "pos": {
+        "x": 8.61968022919425,
+        "z": -47.72947145459865
+      },
+      "target": {
+        "x": 10.013,
+        "z": -47.888
+      },
+      "facing": -0.11329039097927861,
+      "of": {
+        "entityId": "food_chinese",
+        "label": "the chinese"
+      },
+      "why": "capture vibe for Ghost Line Title",
+      "dayPhase": 0.6325203150214145,
+      "wetness": 0.07052374461767023,
+      "overcast": 0.0599451829250197
+    },
+    {
+      "n": 7,
+      "at": 1795372336976,
+      "pos": {
+        "x": 81.02012437786867,
+        "z": 36.62297271944704
+      },
+      "target": {
+        "x": 81.71,
+        "z": 35.33
+      },
+      "facing": -1.080664293670685,
+      "of": {
+        "entityId": "food_soup",
+        "label": "the soup"
+      },
+      "why": "soup gives warm focus",
+      "dayPhase": 0.7087931014797478,
+      "wetness": 0.07763617605558538,
+      "overcast": 0.06599074964724758
+    },
+    {
+      "n": 8,
+      "at": 1795373586700,
+      "pos": {
+        "x": 81.0760327149973,
+        "z": 36.567581934609606
+      },
+      "target": {
+        "x": 81.71,
+        "z": 35.33
+      },
+      "facing": -1.097386610731093,
+      "of": {
+        "entityId": "food_soup",
+        "label": "the soup"
+      },
+      "why": "soup gives warm focus",
+      "dayPhase": 0.7840274764797478,
+      "wetness": 0.1581403439363644,
+      "overcast": 0.16441929234590932
+    },
+    {
+      "n": 9,
+      "at": 1795374491770,
+      "pos": {
+        "x": 8.878561762943312,
+        "z": -46.91351284783423
+      },
+      "target": {
+        "x": 10.013,
+        "z": -47.888
+      },
+      "facing": -0.7096982656919857,
+      "of": {
+        "entityId": "food_chinese",
+        "label": "the chinese"
+      },
+      "why": "crown on bag",
+      "dayPhase": 0.8375854191880812,
+      "wetness": 0.19552103529650294,
+      "overcast": 0.1961928800020271
+    },
+    {
+      "n": 10,
+      "at": 1795376463157,
+      "pos": {
+        "x": 94.13295324440568,
+        "z": -80.25340554533625
+      },
+      "target": {
+        "x": 95.23,
+        "z": -81.8
+      },
+      "facing": -0.9538356331487854,
+      "of": {
+        "entityId": "activity_train_desk",
+        "label": "the train desk in the old tube carriage"
+      },
+      "why": "capture the desk before the vibe drops",
+      "dayPhase": 0.24456564437115083,
+      "wetness": 0.09525341454934648,
+      "overcast": 0.08096540964205476
+    },
+    {
+      "n": 11,
+      "at": 1795378176526,
+      "pos": {
+        "x": 110.08330898716595,
+        "z": 7.192560771855684
+      },
+      "target": {
+        "x": 111.2,
+        "z": 5.9
+      },
+      "facing": -0.8582665832763574,
+      "of": {
+        "entityId": "activity_townclock",
+        "label": "the town clock"
+      },
+      "why": "snap the clock, get a record of the time",
+      "dayPhase": 0.3471144724961508,
+      "wetness": 0.07263143746571228,
+      "overcast": 0.061736721845855436
+    },
+    {
+      "n": 12,
+      "at": 1795379265735,
+      "pos": {
+        "x": 23.582528557683027,
+        "z": -33.14212954488421
+      },
+      "target": {
+        "x": 23.089,
+        "z": -34.548
+      },
+      "facing": -1.90840481707699,
+      "of": {
+        "entityId": "activity_internet",
+        "label": "the internet cafe"
+      },
+      "why": "run the bad sector disk",
+      "dayPhase": 0.41046733707948413,
+      "wetness": 0.06594572542036693,
+      "overcast": 0.05605386660731189
+    }
+  ]
+}
