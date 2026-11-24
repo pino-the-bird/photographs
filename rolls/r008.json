@@ -1,0 +1,257 @@
+{
+  "id": "r008",
+  "shots": [
+    {
+      "n": 1,
+      "at": 1795427722683,
+      "pos": {
+        "x": 45.221117013255935,
+        "z": -68.83975349066851
+      },
+      "target": {
+        "x": 43.42094590773324,
+        "z": -68.99999999999977
+      },
+      "facing": -3.0528092926618013,
+      "of": {
+        "entityId": "activity_ticket_machine",
+        "label": "the ticket machine at the monorail station"
+      },
+      "why": "capture the dry, dusty scene of the monorail ticket machine",
+      "dayPhase": 0.4980073539657449,
+      "wetness": 0.055160787506496035,
+      "overcast": 0.04688666938052163
+    },
+    {
+      "n": 2,
+      "at": 1795429147786,
+      "pos": {
+        "x": -0.7888345117785183,
+        "z": 6.5388345117785205
+      },
+      "target": {
+        "x": 0,
+        "z": 0
+      },
+      "facing": -1.4507381140985223,
+      "of": {
+        "entityId": "artifact_shrine",
+        "label": "the shrine"
+      },
+      "why": "get a fresh look for the next sketch",
+      "dayPhase": 0.5856896456324115,
+      "wetness": 0.042746811082982235,
+      "overcast": 0.0363347894205349
+    },
+    {
+      "n": 3,
+      "at": 1795430635948,
+      "pos": {
+        "x": 45.22409873472641,
+        "z": -68.84007759240464
+      },
+      "target": {
+        "x": 43.42094590773324,
+        "z": -68.99999999999977
+      },
+      "facing": -3.0531336738679715,
+      "of": {
+        "entityId": "activity_ticket_machine",
+        "label": "the ticket machine at the monorail station"
+      },
+      "why": null,
+      "dayPhase": 0.6768680310490782,
+      "wetness": 0.05724952435994758,
+      "overcast": 0.04866209570595544
+    },
+    {
+      "n": 4,
+      "at": 1795432318001,
+      "pos": {
+        "x": 89.3939941736711,
+        "z": 36.22931217440124
+      },
+      "target": {
+        "x": 88,
+        "z": 36.6
+      },
+      "facing": 2.8816895671245324,
+      "of": {
+        "entityId": "food_taco",
+        "label": "the taco"
+      },
+      "why": "snap the taco before it turns into a memory",
+      "dayPhase": 0.7770080050074116,
+      "wetness": 0.21496553047417027,
+      "overcast": 0.21272070090304432
+    },
+    {
+      "n": 5,
+      "at": 1795433275628,
+      "pos": {
+        "x": -99.40807295023285,
+        "z": 50.85030303188525
+      },
+      "target": {
+        "x": -100,
+        "z": 52
+      },
+      "facing": 2.046257062976874,
+      "of": {
+        "entityId": "activity_garden",
+        "label": "the greenhouse"
+      },
+      "why": "capture thinness",
+      "dayPhase": 0.8349930310490783,
+      "wetness": 0.19574529043829095,
+      "overcast": 0.19638349687269463
+    },
+    {
+      "n": 6,
+      "at": 1795435264243,
+      "pos": {
+        "x": 45.221117013255935,
+        "z": -68.83975349066851
+      },
+      "target": {
+        "x": 43.42094590773324,
+        "z": -68.99999999999977
+      },
+      "facing": -3.0528092926618013,
+      "of": {
+        "entityId": "activity_ticket_machine",
+        "label": "the ticket machine at the monorail station"
+      },
+      "why": "to remember the empty slot",
+      "dayPhase": 0.24735257372191108,
+      "wetness": 0.04955407373352477,
+      "overcast": 0.042120962673496055
+    },
+    {
+      "n": 7,
+      "at": 1795436167524,
+      "pos": {
+        "x": -99.25564322677002,
+        "z": 53.09235666796711
+      },
+      "target": {
+        "x": -100,
+        "z": 52
+      },
+      "facing": -2.1689452837819836,
+      "of": {
+        "entityId": "activity_garden",
+        "label": "the greenhouse"
+      },
+      "why": "to capture the beds before they dry",
+      "dayPhase": 0.30205634976357776,
+      "wetness": 0,
+      "overcast": 1.9715400933387288e-63
+    },
+    {
+      "n": 8,
+      "at": 1795437715327,
+      "pos": {
+        "x": 60.080788826321076,
+        "z": 2.37387113595163
+      },
+      "target": {
+        "x": 58.649,
+        "z": 1.463
+      },
+      "facing": -2.574996280622323,
+      "of": {
+        "entityId": "activity_salon",
+        "label": "the salon"
+      },
+      "why": null,
+      "dayPhase": 0.3956663758052444,
+      "wetness": 0.0192776726411137,
+      "overcast": 0.016386021744946643
+    },
+    {
+      "n": 9,
+      "at": 1795439136949,
+      "pos": {
+        "x": -13.018143023140224,
+        "z": 2.6865037383636556
+      },
+      "target": {
+        "x": -13.89,
+        "z": 1.56
+      },
+      "facing": -2.2294497394473543,
+      "of": {
+        "entityId": "activity_granted_bench",
+        "label": "the bench by the apple tree"
+      },
+      "why": "capture the bench vibes",
+      "dayPhase": 0.4820596049719111,
+      "wetness": 0.13874228164597951,
+      "overcast": 0.11793093939908258
+    },
+    {
+      "n": 10,
+      "at": 1795440502126,
+      "pos": {
+        "x": 30.90842347215625,
+        "z": 12.843079115737698
+      },
+      "target": {
+        "x": 30.022,
+        "z": 11.608
+      },
+      "facing": -2.1933068174804853,
+      "of": {
+        "entityId": "food_coffee",
+        "label": "the coffee"
+      },
+      "why": "capture the vibe of the coffee shop for later",
+      "dayPhase": 0.5658909851802444,
+      "wetness": 0.056703534205298306,
+      "overcast": 0.04819800407450356
+    },
+    {
+      "n": 11,
+      "at": 1795441450807,
+      "pos": {
+        "x": -15.719698670017925,
+        "z": -53.51899880028098
+      },
+      "target": {
+        "x": -14.454,
+        "z": -54.52
+      },
+      "facing": -0.6691480954501849,
+      "of": {
+        "entityId": "activity_museum",
+        "label": "the museum"
+      },
+      "why": "need a fresh angle for the night market piece",
+      "dayPhase": 0.620379917471911,
+      "wetness": 0.08747300513768203,
+      "overcast": 0.07435205436702971
+    },
+    {
+      "n": 12,
+      "at": 1795443146493,
+      "pos": {
+        "x": 110.16263438092535,
+        "z": 7.076482364945627
+      },
+      "target": {
+        "x": 111.2,
+        "z": 5.9
+      },
+      "facing": -0.8481549857131886,
+      "of": {
+        "entityId": "activity_townclock",
+        "label": "the town clock"
+      },
+      "why": "clock's tick is the only thing keeping me sane",
+      "dayPhase": 0.7232282247635777,
+      "wetness": 0,
+      "overcast": 6.317268282784687e-25
+    }
+  ]
+}
